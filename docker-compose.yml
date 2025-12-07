@@ -1,0 +1,17 @@
+services:
+  bot:
+    build: .
+    container_name: conspect_bot
+    restart: unless-stopped
+    env_file:
+      - .env
+    volumes:
+      # Монтируем .env файл (если нужно обновить без пересборки)
+      - ./.env:/app/.env:ro
+    networks:
+      - bot-network
+
+networks:
+  bot-network:
+    driver: bridge
+

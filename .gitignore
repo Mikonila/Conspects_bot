@@ -1,0 +1,29 @@
+# === Python cache / build ===
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+*.egg
+build/
+dist/
+
+# === Виртуальные окружения ===
+venv/
+.venv/
+env/
+.env/
+
+# === IDE / редакторы / ОС ===
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# === Локальные базы и данные ===
+*.db
+
+*.json
+
