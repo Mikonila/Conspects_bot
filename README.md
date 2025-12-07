@@ -19,8 +19,6 @@ Test it: [https://t.me/conspectssss_bot](https://t.me/conspectssss_bot)
 5. Use `/clear` to clear the current note
 
 
-
-
 # Telegram Bot для создания конспектов
 
 Бот на aiogram, который собирает конспекты из фотографий тетради и генерирует краткие резюме.
@@ -41,3 +39,5 @@ Test it: [https://t.me/conspectssss_bot](https://t.me/conspectssss_bot)
 3. После добавления всех фото нажмите кнопку "Резюмировать"
 4. Бот сгенерирует и отправит краткое резюме конспекта
 5. Используйте `/clear` для очистки текущего конспекта
+
+![Uploading изображение.png…]()
