@@ -40,4 +40,4 @@ Test it: [https://t.me/conspectssss_bot](https://t.me/conspectssss_bot)
 4. Бот сгенерирует и отправит краткое резюме конспекта
 5. Используйте `/clear` для очистки текущего конспекта
 
-![Uploading изображение.png…]()
+<img width="1243" height="2560" alt="изображение" src="https://github.com/user-attachments/assets/5a820a8b-63fa-4444-b9a9-8ea433874f1c" />
